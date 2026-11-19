@@ -1,0 +1,17 @@
+Class,JPEG_Quality,Matched_Images,Original_Correct,Compressed_Correct,Predictions_Changed,Experiment,Baseline100_Correct
+0_real,95,1000,994.0,996,2,Original vs compressed,
+0_real,75,1000,994.0,999,5,Original vs compressed,
+0_real,50,1000,994.0,999,7,Original vs compressed,
+0_real,25,1000,994.0,1000,6,Original vs compressed,
+1_fake,95,1000,694.0,20,698,Original vs compressed,
+1_fake,75,1000,694.0,0,694,Original vs compressed,
+1_fake,50,1000,694.0,0,694,Original vs compressed,
+1_fake,25,1000,694.0,0,694,Original vs compressed,
+0_real,95,1000,,996,2,JPEG100 baseline vs compressed,996.0
+0_real,75,1000,,999,5,JPEG100 baseline vs compressed,996.0
+0_real,50,1000,,999,5,JPEG100 baseline vs compressed,996.0
+0_real,25,1000,,1000,4,JPEG100 baseline vs compressed,996.0
+1_fake,95,1000,,20,413,JPEG100 baseline vs compressed,411.0
+1_fake,75,1000,,0,411,JPEG100 baseline vs compressed,411.0
+1_fake,50,1000,,0,411,JPEG100 baseline vs compressed,411.0
+1_fake,25,1000,,0,411,JPEG100 baseline vs compressed,411.0

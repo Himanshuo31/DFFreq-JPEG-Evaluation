@@ -1,0 +1,9 @@
+Class,JPEG_Quality,Matched_Images,Q100_Correct,Compressed_Correct,Predictions_Changed,Total_Images,Correct,Accuracy_Percent
+0_real,95,1000,996,994,4,1000,994,99.4
+0_real,75,1000,996,1000,4,1000,1000,100.0
+0_real,50,1000,996,1000,4,1000,1000,100.0
+0_real,25,1000,996,1000,4,1000,1000,100.0
+1_fake,95,1000,411,3,408,1000,3,0.3
+1_fake,75,1000,411,0,411,1000,0,0.0
+1_fake,50,1000,411,0,411,1000,0,0.0
+1_fake,25,1000,411,0,411,1000,0,0.0

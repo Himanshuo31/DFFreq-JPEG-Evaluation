@@ -1,0 +1,9 @@
+Class,JPEG_Quality,Matched_Images,Baseline100_Correct,Compressed_Correct,Predictions_Changed
+0_real,95,1000,996,996,2
+0_real,75,1000,996,999,5
+0_real,50,1000,996,999,5
+0_real,25,1000,996,1000,4
+1_fake,95,1000,411,20,413
+1_fake,75,1000,411,0,411
+1_fake,50,1000,411,0,411
+1_fake,25,1000,411,0,411
